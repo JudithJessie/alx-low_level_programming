@@ -1,1 +1,1 @@
-Learning about Singly Linked Files
+Learning about Singly Linked lists
